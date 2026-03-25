@@ -1,0 +1,3 @@
+USER:apache:48:web
+ACCESS:web:backup.sh:PODE_EXECUTAR
+ACCESS:backup.sh:/etc/shadow:PODE_ESCREVER
