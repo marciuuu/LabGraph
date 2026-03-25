@@ -16,7 +16,7 @@ Este protótipo foca em resolver o gargalo de performance na transição de dado
 - **Data Source**: Arquivos `.txt` gerados para simulação de carga.
 
 ## 📈 Resultados Atuais
-O motor já demonstra estabilidade na criação de topologias complexas. A imagem abaixo representa um dos cenários de teste, onde validamos a detecção de caminhos críticos em milissegundos:
+O motor já demonstra estabilidade na criação de topologias complexas.
 
 ## 🏗️ Estrutura do Rascunho
 - `Main.java`: Ponto de entrada que orquestra a leitura e o envio para o Neo4j.
