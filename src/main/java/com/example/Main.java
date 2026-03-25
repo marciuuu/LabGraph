@@ -18,7 +18,7 @@ public class Main {
 
         // Configuração da conexão
         Driver driver = GraphDatabase.driver("bolt://localhost:7687",
-                AuthTokens.basic("neo4j", "senha123"));
+                AuthTokens.basic("x", "x"));
 
         // Usamos APENAS UMA session
         try (Session session = driver.session()) {
