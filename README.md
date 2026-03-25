@@ -18,8 +18,6 @@ Este protótipo foca em resolver o gargalo de performance na transição de dado
 ## 📈 Resultados Atuais
 O motor já demonstra estabilidade na criação de topologias complexas. A imagem abaixo representa um dos cenários de teste, onde validamos a detecção de caminhos críticos em milissegundos:
 
-![Visualização do Stress Test](./visualisation(2).png)
-
 ## 🏗️ Estrutura do Rascunho
 - `Main.java`: Ponto de entrada que orquestra a leitura e o envio para o Neo4j.
 - `Generator.java`: (Opcional) Script para gerar massa de dados sintética para o stress test.
